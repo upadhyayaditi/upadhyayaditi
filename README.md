@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**upadhyayaditi/upadhyayaditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Aditi Upadhyay, a passionate full-stack developer, specializing in building web applications with modern technologies. With a strong background in both frontend and backend development, I love turning ideas into reality through clean, efficient, and user-friendly code.
 
-Here are some ideas to get you started:
+## I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enhancing my skills.
+- Building Project.
+
+## My Tech Stack
+
+- Front-end: HTML, CSS, JavaScript, React.js
+- Back-end: Node.js, Express.js, Mongoose
+- Databases: Mysql, MongoDB
+- Other: Git, RESTful APIs
+
+## Let's Connect
+
+- LinkedIn: [https://www.linkedin.com/in/aditi-upadhyay/](https://www.linkedin.com/in/aditi-upadhyay-7a08222a5/)
+- Email: [au.aditi08@gmail.com](au.aditi08@gmail.com)
+
+Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about web development!
+
+Coding dreams into reality! 💫
+
+
+
+
