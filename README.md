@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Aditi Upadhyay, a passionate full-stack develo
 
 - LinkedIn: [https://www.linkedin.com/in/aditi-upadhyay/](https://www.linkedin.com/in/aditi-upadhyay-7a08222a5/)
 - Email: [au.aditi08@gmail.com](au.aditi08@gmail.com)
-- PortFolio: [aditi-portfolio](https://portfolio-aditi-upadhyay.vercel.app/)
+- Portfolio: [aditi-portfolio](https://portfolio-aditi-upadhyay.vercel.app/)
 
 Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about web development!
 
